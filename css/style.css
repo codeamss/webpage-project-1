@@ -1,0 +1,45 @@
+h1{
+color: red;
+font-family: sans-serif;
+text-shadow: 2px 2px black;
+text-align: center;
+border-radius: 100px;
+}
+
+p{
+color: white;
+font-family: sans-serif;
+text-align: center;
+border-radius: 100px;
+padding-bottom: 10px;
+}
+
+h2{
+color: red;
+font-family: monospace;
+text-shadow: 2px 2px black;
+}
+
+body{
+background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("https://th.bing.com/th/id/R.f0b4f1c938230611cede8c6543f5ee16?rik=noZPXk7pj%2fPZ8Q&riu=http%3a%2f%2fwww.hdcarwallpapers.com%2fwalls%2f2014_ferrari_laferrari_2-wide.jpg&ehk=XgHUv%2fSVDmw9keZ8SQXulGhgg3kmHvfsPzoAkJDywLE%3d&risl=&pid=ImgRaw&r=0");
+background-size: cover;
+background-position: center;
+height: 90vh;
+}
+
+li a:hover{
+background-color: red;
+color: #000;
+}
+
+li a{
+text-decoration: none;
+color: white;
+border: 1px solid transperent;
+transition: 0.6s ease;
+font-family: sans-serif;
+}
+
+li{
+padding-top: 10px;
+}
